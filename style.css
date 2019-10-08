@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 {
-  color: red;
+
+h1{
+  text-align: center
 }
