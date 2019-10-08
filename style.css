@@ -13,5 +13,8 @@ header a{
 }
 
 #featured-property img{
-  align="middle";
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
 }
