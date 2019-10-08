@@ -29,3 +29,7 @@ figcaption{
 #featured-property p{
   max-width: 800px;
 }
+#featured-property p{
+  text-align: center;
+}
+
