@@ -20,3 +20,8 @@ header a{
  margin-right: auto;
  width: 60%;
 }
+
+figcaption{
+  text-align: center;
+  font-size: 12pt;
+}
