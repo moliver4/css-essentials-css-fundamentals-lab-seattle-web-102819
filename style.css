@@ -37,4 +37,5 @@ figcaption{
   display: block;
   background-color: blue;
   float: left;
+  width: 25%;
 }
