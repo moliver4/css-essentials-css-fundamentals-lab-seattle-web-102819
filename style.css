@@ -10,6 +10,8 @@ header {
 
 header a{
   background-color: #FF9D91;
+  padding-right: 30px;
+  padding-left: 80px;
 }
 
 #featured-property img{
